@@ -1,5 +1,5 @@
 {
-    "name": "OpenMageModuleFostering\/Interface_Frontend_Base_Default",
+    "name": "openmage-module-fostering\/interface_frontend_base_default",
     "type": "magento-module",
     "license": "AFL-v3.0",
     "homepage": "",
